@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sikking100
-- 👀 I’m interested in love
+- 👀 I’m interested in science
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on backend programmer
-- 📫 How to reach me by email me in sigithadiprawira@gmail.com
+- 💞️ I’m looking forwards for other programmer to collaboration
+- 📫 How to reach me by email in sigithadiprawira@gmail.com
 
 <!---
 sikking100/sikking100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
